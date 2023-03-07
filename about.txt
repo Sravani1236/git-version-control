@@ -1,0 +1,1 @@
+It is an practicing exercise about git version control
